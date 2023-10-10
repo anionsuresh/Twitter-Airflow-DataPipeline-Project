@@ -4,9 +4,9 @@
 
 
 # Project Goals
- extract data using Twitter API
- use python to transform data 
- deploy the code on Airflow/EC2 and save the final result on Amazon S3 
+ 1.Extract data using Twitter API
+ 2.Use python to transform data 
+ 3.Deploy the code on Airflow/EC2 and save the final result on Amazon S3 
 
 
 # Resources 
